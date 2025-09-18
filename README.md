@@ -1,5 +1,6 @@
 # Nomi RAJ
 Python • Data Science • Machine Learning • Predictive Analytics
+
  Hello! I’m Nauman — a passionate Python Developer and Data Science Enthusiast.
 
 . I specialize in building efficient, scalable, and data-driven solutions using Python.
