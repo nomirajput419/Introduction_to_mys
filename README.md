@@ -13,3 +13,5 @@ Python • Data Science • Machine Learning • Predictive Analytics
 
 ^ Always learning, exploring, and open to collaboration on exciting Python & Data Science projects.
 
+- Reach me on [Linkedin](https://www.linkedin.com/in/nauman-rajput-45037637a/)
+
