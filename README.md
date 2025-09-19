@@ -1,17 +1,23 @@
 # Nomi RAJ
-Python • Data Science • Machine Learning • Predictive Analytics
+# Hello there 👋 I'm Muhammad Nauman
 
- Hello! I’m Nauman — a passionate Python Developer and Data Science Enthusiast.
+💻 Python | Data Science | Machine Learning
 
-. I specialize in building efficient, scalable, and data-driven solutions using Python.
+🔹 I’m a passionate Data Science learner working with Python libraries like:
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
 
-. Experienced with core libraries like NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, and more for data manipulation, visualization, and machine learning.
+🔹 Current Focus: Building Machine Learning projects to strengthen my portfolio.
 
-. I enjoy transforming raw data into actionable insights, developing predictive models, and deploying end-to-end data pipelines.
+📂 **Featured Projects:**
+- [House Price Prediction](https://github.com/nomirajput419/house-price-prediction)
+- [Credit Card Default Model](https://github.com/nomirajput419/credit-card-model)
 
-. Currently focusing on advanced Machine Learning techniques, model optimization, and real-world project development.
+🌱 Currently Learning: Advanced ML + Deployment
 
-^ Always learning, exploring, and open to collaboration on exciting Python & Data Science projects.
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nauman-rajput-45037637a/) |nomirajput2025@example.com
 
-- Reach me on [Linkedin](https://www.linkedin.com/in/nauman-rajput-45037637a/)
+
 
